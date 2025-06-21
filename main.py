@@ -74,29 +74,29 @@ BUTTONSCONTACT = InlineKeyboardMarkup([[InlineKeyboardButton(text="📞 Contact"
 keyboard = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="📞 𝗖𝗢𝗡𝗧𝗔𝗖𝗧", url="https://t.me/BABA_tillu_Gk") ],
+            InlineKeyboardButton(text="🫦 𝗟𝗘𝗢𝗡𝗘", url="https://t.me/ASPSIR01") ],
             [
-            InlineKeyboardButton(text="🛠️ 𝗛𝗘𝗟𝗣", url="https://t.me/PAPPUPELUBABA") ],
+            InlineKeyboardButton(text="🗣 𝗢𝗪𝗡𝗘𝗥", url="https://t.me/ASPSIR9") ],
             [
             InlineKeyboardButton(text="🇮🇳 𝗬𝗼𝘂𝗧𝘂𝗯𝗲", url="https://youtube.com/@asponlineeducation?si=qdG97vJYpJQQYkrh") ],
             [
             InlineKeyboardButton(text="🦂 𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺", url="https://www.instagram.com/as_love_091/?hl=en") ],
             [
-            InlineKeyboardButton(text="🦟 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺", url="https://t.me/ALEXANDER_OFFICIAL_091") ],
+            InlineKeyboardButton(text="🦟 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺", url="https://t.me/ASPSIR01") ],
             [
-            InlineKeyboardButton(text="🕷 𝗚𝗜𝗧 𝗛𝗨𝗕", url="https://t.me/PAPPUPELUBABA"),
+            InlineKeyboardButton(text="🕷 𝗚𝗜𝗧 𝗛𝗨𝗕", url="https://t.me/ASPSIR01"),
         ],
     ]
 )
 
 # Image URLs for the random image feature
 image_urls = [
-    "https://files.catbox.moe/iykmoi.jpg",
-    "https://files.catbox.moe/44y82a.jpg",
-    "https://files.catbox.moe/endhpl.jpg",
-    "https://files.catbox.moe/ufb7m7.jpg",
-    "https://files.catbox.moe/zjg9u7.jpg",
-    "https://files.catbox.moe/6nn4d3.jpg",
+    "https://files.catbox.moe/b694bq.jpg",
+    "https://files.catbox.moe/ehx1x4.jpg",
+    "https://files.catbox.moe/8fffzm.jpg",
+    "https://files.catbox.moe/451lrx.jpg",
+    "https://files.catbox.moe/e6ucj5.jpg",
+    "https://files.catbox.moe/bgkyn9.jpg",
     # Add more image URLs as needed
 ]
 
