@@ -533,7 +533,7 @@ async def txt_handler(bot: Client, m: Message):
     raw_text3 = input3.text
     await input3.delete(True)
     if raw_text3 == '1':
-        CR = '[𝄟⃝‌🐬𝗦𝗔𝗠𝗘𝗘𝗥 𝗝𝗜𝄟⃝🐬](https://t.me/ALEXANDER_OFFICIAL_091)'
+        CR = '[𝄟⃝‌🐬𝗦𝗔𝗠𝗘𝗘𝗥 𝗝𝗜𝄟⃝🐬](https://t.me/ASPSIR9)'
     else:
         CR = raw_text3
 
